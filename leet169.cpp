@@ -1,4 +1,3 @@
-leatcode 169. Majority Element
 //leatcode 169. Majority Element
 
 class Solution { public: int majorityElement(vector& nums) { int n=nums.size(); for(int i=0;i<n;i++){ int count=0;
