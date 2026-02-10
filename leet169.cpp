@@ -16,3 +16,25 @@ class Solution { public: int majorityElement(vector& nums) { int n=nums.size(); 
     return -1;
 }
 };
+
+
+Optimised
+
+class Solution {
+public:
+    int majorityElement(vector<int>& nums) {
+        int n=nums.size();
+        int c =0 ,m;
+        for (int i=0;i<n;i++){
+            if (c==0){
+            m=nums[i];
+            }
+            if (nums[i]==m)
+            c++;
+            else c--;
+        }
+        
+        return m;
+        
+      }
+    };
