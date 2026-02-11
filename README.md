@@ -1,6 +1,6 @@
 # CPP-programme
 
-Hi this is my CPP code libarary that I am dooing  the sequence is 
+Hi this is my Leetcode CPP code libarary. The sequence is :-
 
 1.  169  done
 2. 1281  done
