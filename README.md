@@ -5,6 +5,7 @@ S.No.
 1 –      Two Sum
 16 –     3Sum Closest
 26 –     Remove Duplicates from Sorted Array
+27 -     Remove Element
 50 –     Pow(x, n)
 75 –     Sort Colors
 88 –     Merge Sorted Array
