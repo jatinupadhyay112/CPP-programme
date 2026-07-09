@@ -9,9 +9,15 @@ public:
         return 0;
         else if(n==1 && nums[0]!=val)
         return 1;
-        while(i<=j){
-            while(nums[j]==val && j>0){
+        while(i<=j&& j>0){
+            while(nums[j]==val){
                 j--;
+                if(j<0){
+                    return 0;
+                }
+            }
+            if(i>j){
+                break;
             }
             if(nums[i]==val){
                 swap(nums[i],nums[j]);
