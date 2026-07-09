@@ -1,6 +1,6 @@
-283. Move Zeroes
+//283. Move Zeroes
 
-bruteforce 
+//bruteforce 
 
 class Solution {
 public:
@@ -21,5 +21,29 @@ public:
     }
 };
 
-optimised 
+//optimised 
 
+class Solution {
+public:
+    void moveZeroes(vector<int>& nums) {
+    int i=0,n=nums.size();
+
+    while (nums[i]!=0){
+        i++;
+        if(i>=n)
+        break;
+    }
+    int j=i+1;
+    for(j;j<n;j++){
+        if(nums[j]!=0){
+            nums[i]=nums[j];
+            i++;
+        }
+    }
+    while(i<n){
+        nums[i]=0;
+        i++;
+    }
+
+    }
+};
