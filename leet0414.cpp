@@ -1,6 +1,6 @@
-414. Third Maximum Number
+//414. Third Maximum Number
 
-bruteforce 
+//bruteforce 
 
 class Solution {
 public:

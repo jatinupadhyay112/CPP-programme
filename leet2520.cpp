@@ -1,6 +1,6 @@
-2520. Count the Digits That Divide a Number
+//2520. Count the Digits That Divide a Number
 
-bruteforce 
+//bruteforce 
 
 class Solution {
 public:

@@ -1,6 +1,6 @@
-217. Contains Duplicate
+//217. Contains Duplicate
 
-bruteforce 
+//bruteforce 
 
 class Solution {
 public:
@@ -17,7 +17,7 @@ public:
     }
 };
 
-optimised 
+//optimised 
 
 class Solution {
 public:

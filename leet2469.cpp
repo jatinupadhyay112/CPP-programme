@@ -1,6 +1,6 @@
-2469. Convert the Temperature
+//2469. Convert the Temperature
 
-bruteforce 
+//bruteforce 
 
 class Solution {
 public:

@@ -1,6 +1,6 @@
-172. Factorial Trailing Zeroes
+//172. Factorial Trailing Zeroes
 
-bruteforce 
+//bruteforce 
 
 class Solution {
 public:
@@ -22,7 +22,7 @@ public:
     }
 };
 
-optimised 
+//optimised 
 
 class Solution {
 public:

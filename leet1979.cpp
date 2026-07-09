@@ -1,6 +1,6 @@
-1979. Find Greatest Common Divisor of Array
+//1979. Find Greatest Common Divisor of Array
 
-bruteforce 
+//bruteforce 
 
 class Solution {
 public:

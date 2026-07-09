@@ -1,6 +1,6 @@
-2574. Left and Right Sum Differences
+//2574. Left and Right Sum Differences
 
-bruteforce 
+//bruteforce 
 
 class Solution {
 public:
@@ -32,5 +32,5 @@ public:
     }
 };
 
-optimised 
+//optimised 
 
