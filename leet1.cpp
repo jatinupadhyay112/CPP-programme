@@ -1,6 +1,6 @@
-1. Two Sum
+//1. Two Sum
 
-bruteforce
+//bruteforce
 
 class Solution {
 public:
@@ -17,5 +17,5 @@ public:
 };
 
 
-optimised 
+//optimised 
 
