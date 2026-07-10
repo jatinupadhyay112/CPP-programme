@@ -1,6 +1,6 @@
-75. Sort Colors
+//75. Sort Colors
 
-bruteforce 
+//bruteforce 
 
 class Solution {
 public:
@@ -33,5 +33,5 @@ public:
     }
 };
 
-optimal 
+//optimal 
 

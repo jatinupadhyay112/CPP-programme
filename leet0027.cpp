@@ -1,3 +1,7 @@
+//27. Remove Element
+
+//bruteforce
+
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
