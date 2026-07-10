@@ -1,6 +1,6 @@
-50. Pow(x, n)
+//50. Pow(x, n)
 
-bruteforce (but TLE)
+//bruteforce (but TLE)
 
 class Solution {
 public:
@@ -28,7 +28,7 @@ public:
     }
 };
 
-optimal
+//optimal
 
 class Solution {
 public:
@@ -65,7 +65,7 @@ public:
     }   
 };
 
-more optimal
+//more optimal
 
 class Solution {
 public:
