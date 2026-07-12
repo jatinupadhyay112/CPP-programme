@@ -20,6 +20,26 @@ public:
 
 //Optimised
 
+    class Solution {
+public:
+    int majorityElement(vector<int>& nums) {
+        int n=nums.size();
+        vector<int> a;
+        for(int x:nums){
+            if(a.size()==0||a.back()==x)
+            a.push_back(x);
+            else if(a.back()!=x&&a.size()!=0){
+                a.pop_back();
+                if(a.size()==0)
+                a.push_back(x);
+            }
+        }
+        return a[0];
+    }
+};
+
+    //most optimal
+
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
@@ -36,3 +56,4 @@ public:
         return m;
       }
     };
+
