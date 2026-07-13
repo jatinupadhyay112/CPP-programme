@@ -15,6 +15,7 @@ S.No.
 172     Factorial Trailing Zeroes
 189     Rotate Array
 217     Contains Duplicate
+268     Missing Number
 283     Move Zeroes
 414     Third Maximum Number
 977     Squares of a Sorted Array
