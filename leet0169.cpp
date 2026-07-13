@@ -43,17 +43,17 @@ public:
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int n=nums.size();
-        int c =0 ,m;
-        for (int i=0;i<n;i++){
-            if (c==0){
-            m=nums[i];
-            }
-            if (nums[i]==m)
+        int c=0,a=nums[0],n=nums.size();
+        for(int i=0;i<n;i++){
+            if(a==nums[i])
             c++;
-            else c--;
+            else
+            c--;
+            if(c==0){
+                c++;
+                a=nums[i];
+            }
         }
-        return m;
-      }
-    };
-
+        return a;
+    }
+};
