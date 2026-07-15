@@ -18,6 +18,7 @@ S.No.
 268     Missing Number
 283     Move Zeroes
 414     Third Maximum Number
+905     Sort Array By Parity
 977     Squares of a Sorted Array
 1281    Subtract the Product and Sum of Digits of an Integer
 1299    Replace Elements with Greatest Element on Right Side
