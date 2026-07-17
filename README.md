@@ -9,6 +9,7 @@ S.No.
 50      Pow(x, n)
 75      Sort Colors
 88      Merge Sorted Array
+121     Best Time To Buy And Sell Stock
 136     Single Number
 167     Two Sum II – Input Array Is Sorted
 169     Majority Element
