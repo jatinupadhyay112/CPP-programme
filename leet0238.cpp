@@ -1,4 +1,4 @@
-//bruteforce (but tle
+//bruteforce (but tle)
 
 class Solution {
 public:
