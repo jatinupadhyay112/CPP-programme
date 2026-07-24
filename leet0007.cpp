@@ -1,4 +1,4 @@
-//Bruteforce 
+//Bruteforce( only answer )
 
 class Solution {
 public:
