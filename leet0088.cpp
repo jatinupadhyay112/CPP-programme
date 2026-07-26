@@ -1,6 +1,6 @@
 //88. Merge Sorted Array
 
-bruteforce 
+//bruteforce 
 
 class Solution {
 public:
