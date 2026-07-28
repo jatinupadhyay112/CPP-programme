@@ -3,6 +3,7 @@
 Hi this is my Leetcode CPP code libarary. The sequence is :-
 S.No.   Content
 1       Two Sum
+7 name in file as well
 16      3Sum Closest
 11      Container With Most Water
 26      Remove Duplicates from Sorted Array
