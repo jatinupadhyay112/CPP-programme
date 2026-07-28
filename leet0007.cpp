@@ -1,4 +1,6 @@
-//Bruteforce( only answer )
+//7. Reverse Integer
+
+//Bruteforce
 
 class Solution {
 public:
