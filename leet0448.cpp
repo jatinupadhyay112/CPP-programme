@@ -22,3 +22,19 @@ public:
 
 //optimal
 
+class Solution {
+public:
+    vector<int> findDisappearedNumbers(vector<int>& nums) {
+    int n=nums.size();
+    vector<int>ans;
+    for(int x:nums){
+        if(nums[abs(x)-1]>0)
+        nums[abs(x)-1]=(-1)*nums[abs(x)-1];
+    }
+    for(int i=0;i<n;i++){
+        if(nums[i]>0)
+        ans.push_back(i+1);
+    }
+    return ans;
+    }
+};
