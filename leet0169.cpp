@@ -1,5 +1,7 @@
 //169. Majority Element
 
+//bruteforce 
+
 class Solution { 
 public: 
     int majorityElement(vector& nums) { 
