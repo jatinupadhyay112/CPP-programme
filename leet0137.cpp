@@ -1,5 +1,7 @@
 //137. Single Number II
 
+//bruteforce 
+
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
