@@ -10,7 +10,7 @@ S.No.   Content
 27      Remove Element
 50      Pow(x, n)
 75      Sort Colors
-88      Merge Sorted Array.                       (not completed)
+88      Merge Sorted Array.                       
 121     Best Time To Buy And Sell Stock
 136     Single Number
 167     Two Sum II – Input Array Is Sorted
@@ -19,7 +19,7 @@ S.No.   Content
 189     Rotate Array
 217     Contains Duplicate
 238     Product Of Array Except Self
-260 
+260     Single Number III
 268     Missing Number
 283     Move Zeroes
 334     Increasing Triplet Subsequence
