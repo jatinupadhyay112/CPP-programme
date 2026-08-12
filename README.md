@@ -2,19 +2,21 @@
 
 Hi this is my Leetcode CPP code libarary. The sequence is :-
 S.No.   Content
-1       Two Sum
-7       Reverse Integer
-9       Palindrome Number
+1        Two Sum
+7        Reverse Integer
+9        Palindrome Number
 16       3Sum Closest
 11       Container With Most Water
 26       Remove Duplicates from Sorted Array
 27       Remove Element
 50       Pow(x, n)
+53       Maximum Subarray
 75       Sort Colors
 88       Merge Sorted Array.                       
 121      Best Time To Buy And Sell Stock
 125      Valid Palindrome
 136      Single Number
+137      Single Number II
 167      Two Sum II – Input Array Is Sorted
 169      Majority Element
 172      Factorial Trailing Zeroes
@@ -25,7 +27,9 @@ S.No.   Content
 268      Missing Number
 283      Move Zeroes
 334      Increasing Triplet Subsequence
+344      Reverse String
 414      Third Maximum Number
+448      Find All Numbers Disappeared in an Array
 905      Sort Array By Parity
 977      Squares of a Sorted Array
 1281     Subtract the Product and Sum of Digits of an Integer
@@ -39,3 +43,4 @@ S.No.   Content
 2520     Count the Digits That Divide a Number
 2574     Left and Right Sum Differences
 2652     Sum Multiples
+2769     Find The Maximum Achievable Number
