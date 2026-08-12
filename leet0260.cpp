@@ -18,3 +18,26 @@ public:
         return ans;
     }
 };
+
+//better
+
+class Solution {
+public:
+    vector<int> singleNumber(vector<int>& nums) {
+        sort(nums.begin(),nums.end());
+        vector<int>a;
+        a.push_back(nums[0]);
+        for(int i=1;i<nums.size();i++){
+            if(a.back()==nums[i]){
+                a.pop_back();
+                if(a.size()==0){
+                    i++;
+                    a.push_back(nums[i]);
+                }   
+            }
+            else 
+            a.push_back(nums[i]);
+        }
+        return a;
+    }
+};
