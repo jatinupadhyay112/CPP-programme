@@ -9,6 +9,7 @@ S.No.   Content
 11       Container With Most Water
 26       Remove Duplicates from Sorted Array
 27       Remove Element
+33       Search in Rotated Sorted Array
 50       Pow(x, n)
 53       Maximum Subarray
 75       Sort Colors
