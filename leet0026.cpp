@@ -26,7 +26,7 @@ public:
     }
 };
 
-// better solution
+// better solution (optimal)
 
 class Solution {
 public:
@@ -46,7 +46,7 @@ public:
     }
 };
 
-//best solution
+//best solution 
 
 class Solution {
 public:
