@@ -46,7 +46,7 @@ public:
     }
 };
 
-//best solution 
+//best solution (optimistic)
 
 class Solution {
 public:
