@@ -65,7 +65,7 @@ public:
     }   
 };
 
-//more optimal
+//most optimal
 
 class Solution {
 public:
